@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://splitmindpoet.github.io",
     "hubpress": "https://splitmindpoet.github.io",
-    "theme": "//splitmindpoet.github.io/themes/casper",
+    "theme": "//splitmindpoet.github.io/themes/saga",
     "images": "https://splitmindpoet.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -31,7 +31,7 @@
     "logo": "",
     "cover": "",
     "delay": "",
-    "postsPerPage": "",
+    "postsPerPage": "10",
     "googleAnalytics": "",
     "disqus": ""
   },
